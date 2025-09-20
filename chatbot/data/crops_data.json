@@ -1,0 +1,114 @@
+{
+  "Tomato": {
+    "description": "Requires moderate water and warm climate.",
+    "npk": "20:10:10",
+    "temperature": "20-30°C",
+    "humidity": "50-70%",
+    "ph": "6.0-6.8",
+    "suitability": "Tomato grows best in well-drained soil and full sunlight."
+  },
+  "Potato": {
+    "description": "Cool season crop with good soil moisture.",
+    "npk": "15:15:15",
+    "temperature": "15-20°C",
+    "humidity": "60-80%",
+    "ph": "5.5-6.5",
+    "suitability": "Requires cool climate and well-drained soil."
+  },
+  "Ladys Finger": {
+    "description": "Thrives in hot and humid climate.",
+    "npk": "25:10:10",
+    "temperature": "20-35°C",
+    "humidity": "60-70%",
+    "ph": "6.0-6.8",
+    "suitability": "Grows best in warm, sunny conditions with good moisture."
+  },
+  "Brinjal": {
+    "description": "Needs high temperature and well-drained soil.",
+    "npk": "20:20:20",
+    "temperature": "22-30°C",
+    "humidity": "50-70%",
+    "ph": "5.5-6.5",
+    "suitability": "Best in fertile sandy loam soil."
+  },
+  "Bitter Gourd": {
+    "description": "Prefers hot and humid climate.",
+    "npk": "15:10:10",
+    "temperature": "20-30°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.0",
+    "suitability": "Ideal for tropical and subtropical climates."
+  },
+  "Bottle Gourd": {
+    "description": "Requires warm season and moderate water.",
+    "npk": "15:15:15",
+    "temperature": "25-30°C",
+    "humidity": "60-70%",
+    "ph": "6.5-7.5",
+    "suitability": "Grows well in sandy loam soil rich in organic matter."
+  },
+  "Chilli": {
+    "description": "Requires warm, humid climate and well-drained soil.",
+    "npk": "25:15:15",
+    "temperature": "20-30°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.0",
+    "suitability": "Grows well in warm and humid conditions."
+  },
+  "Cabbage": {
+    "description": "Cool season crop requiring fertile soil.",
+    "npk": "20:15:15",
+    "temperature": "15-20°C",
+    "humidity": "65-75%",
+    "ph": "6.0-6.5",
+    "suitability": "Thrives in cool weather with high soil fertility."
+  },
+  "Cauliflower": {
+    "description": "Prefers cool climate and rich soil.",
+    "npk": "15:15:15",
+    "temperature": "15-20°C",
+    "humidity": "65-75%",
+    "ph": "6.0-7.0",
+    "suitability": "Needs cool temperature for good curd formation."
+  },
+  "Beetroot": {
+    "description": "Grows best in cool climate and sandy soil.",
+    "npk": "15:10:10",
+    "temperature": "15-25°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.5",
+    "suitability": "Ideal for cool seasons and light soil."
+  },
+  "Carrot": {
+    "description": "Root vegetable requiring loose soil.",
+    "npk": "15:15:15",
+    "temperature": "15-25°C",
+    "humidity": "60-70%",
+    "ph": "6.0-6.8",
+    "suitability": "Thrives in cool climate and loose soil."
+  },
+  "Snake Gourd": {
+    "description": "Prefers warm climate and fertile soil.",
+    "npk": "20:10:10",
+    "temperature": "25-30°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.0",
+    "suitability": "Grows well in tropical climates."
+  },
+  "Ash Gourd": {
+    "description": "Thrives in hot and humid conditions.",
+    "npk": "15:10:10",
+    "temperature": "25-30°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.5",
+    "suitability": "Ideal for loamy soil and high humidity."
+  },
+  "Amaranthus": {
+    "description": "Leafy vegetable suitable for warm climate.",
+    "npk": "20:20:20",
+    "temperature": "20-30°C",
+    "humidity": "60-70%",
+    "ph": "6.0-7.5",
+    "suitability": "Grows quickly in warm weather."
+  }
+}
