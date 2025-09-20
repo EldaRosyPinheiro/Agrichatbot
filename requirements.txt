@@ -9,3 +9,5 @@ gunicorn
 blinker==1.6.3
 python-dotenv
 requests
+google-generativeai
+
